@@ -1,16 +1,24 @@
 {
-  "name": "@avan/jsonformbuilder",
+  "name": "jsonformbuilder",
   "version": "0.0.1",
-  "description": "Create a form from a JSON schema",
+  "description": "Generate a form from a given json schema",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jc-anguiano/jsonToForm.git"
+  },
   "keywords": [
-    "JSON",
     "form",
-    "formulario"
+    "formulario",
+    "json"
   ],
   "author": "Carlos Anguiano",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jc-anguiano/jsonToForm/issues"
+  },
+  "homepage": "https://github.com/jc-anguiano/jsonToForm#readme"
 }

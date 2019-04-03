@@ -5,6 +5,6 @@ exports.buildFrom = (jsonData, formRef) => {
 			inputElement.setAttribute(attrName, field.attrs[attrName])
 		})
 		inputElement.setAttribute('type', field.type)
-		if(ref) formRef.appendChild(inputElement)
+		if(formRef) formRef.appendChild(inputElement)
 	})
 }
