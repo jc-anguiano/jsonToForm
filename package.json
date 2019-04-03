@@ -1,0 +1,16 @@
+{
+  "name": "@avan/jsonformbuilder",
+  "version": "0.0.1",
+  "description": "Create a form from a JSON schema",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JSON",
+    "form",
+    "formulario"
+  ],
+  "author": "Carlos Anguiano",
+  "license": "ISC"
+}
